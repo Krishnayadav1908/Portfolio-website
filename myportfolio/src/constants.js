@@ -22,7 +22,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import intellijLogo from './assets/tech_logo/IntelliJ IDEA.png'
 
 // Experience Section Logo's
-import robokartLogo from './assets/company_logo/robokart_logo.jpeg';
+import robokartLogo from './assets/company_logo/Robokart_logo.jpeg';
 import lrLogo from './assets/company_logo/lr_logo.jpeg';
 
 // Education Section Logo's
