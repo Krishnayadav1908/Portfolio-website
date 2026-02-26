@@ -159,21 +159,21 @@ export const SkillsInfo = [
       id: 0,
       title: "KrishCart - E-Commerce Website",
       description:
-        " Developed a full-stack e-commerce platform with JWT-based user authentication. implemented a secure backend using Express.js, Bcrypt password hashing, and MongoDB with Mongoose ODM. Built a responsive frontend using React and Context API for global state management. Integrated RESTful APIs with Axios and configured CORS-enabled Express server",
+        "Developed and deployed a secure full-stack e-commerce platform on Render with JWT authentication and email OTP verification using Nodemailer. Designed MongoDB schemas for users, products, orders, booking history, and address management. Built admin dashboard with user management, product CRUD, stock alerts, and invoice generation. Implemented cart, wishlist, booking history, mock payment flow, and role-based access control. Enforced strong password policies with reset/forgot password and encrypted credentials using Bcrypt. Designed RESTful APIs with proper route structuring, middleware authentication, and CORS configuration.",
       image: ecommLogo,
-      tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "JWT", "Mongoose ODM", "Bcrypt", "Axios", "CORS"],
+      tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "Render", "Nodemailer", "Bcrypt", "CORS"],
       github: "https://github.com/Krishnayadav1908/E-Commerce-Website",
-      webapp: "https://krishcart.netlify.app/",
+      webapp: "https://e-commerce-website-frontend-kz6e.onrender.com",
     },
     {
       id: 1,
       title: "Hotel Booking Platform",
       description:
-        "Developed hotel booking platform with Firebase Authentication and Firestore for real-time data management.  Integrated Leaflet maps with geolocation for interactive hotel location visualization. Built bookmark & booking system with complete CRUD operations using Context API. Implemented protected routes, custom hooks, and dark/light mode for enhanced UX",
+        "Developed a hotel booking platform with Firebase Authentication and real-time Firestore database. Built admin dashboard to manage hotels, users, and bookings with analytics and export features. Integrated interactive Leaflet maps with geolocation for hotel visualization. Implemented booking workflow including wishlist, booking history, check-in/check-out logic, and protected routes. Designed responsive dark/light mode UI and structured scalable Firestore collections.",
       image: hotelLogo,
-      tags: ["React JS", "Firebase", "Leaflet Maps", "Context API", "Protected Routes", "Custom Hooks"],
+      tags: ["React.js", "Firebase Auth", "Firestore", "Leaflet Maps", "Tailwind CSS"],
       github: "https://github.com/Krishnayadav1908/hotel-booking-platform",
-      webapp: "https://hotel-booking-platform.netlify.app/",
+      webapp: "https://hotel-booking-16f5a.web.app//",
     },
     {
       id: 2,
