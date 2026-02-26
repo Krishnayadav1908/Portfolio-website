@@ -159,9 +159,9 @@ export const SkillsInfo = [
       id: 0,
       title: "KrishCart - E-Commerce Website",
       description:
-        "Developed and deployed a secure full-stack e-commerce platform on Render with JWT authentication and email OTP verification using Nodemailer. Designed MongoDB schemas for users, products, orders, booking history, and address management. Built admin dashboard with user management, product CRUD, stock alerts, and invoice generation. Implemented cart, wishlist, booking history, mock payment flow, and role-based access control. Enforced strong password policies with reset/forgot password and encrypted credentials using Bcrypt. Designed RESTful APIs with proper route structuring, middleware authentication, and CORS configuration.",
+        "Deployed a secure full-stack e-commerce site on Render featuring JWT auth and email OTP via Nodemailer. Modeled MongoDB schemas for users, products, orders, bookings, and addresses. Added admin dashboard with user/product management, stock alerts, and invoice generation. Implemented cart, wishlist, booking history, mock payments, and role-based access. Enforced strong passwords with Bcrypt and built RESTful APIs with middleware auth and CORS.",
       image: ecommLogo,
-      tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "Render", "Nodemailer", "Bcrypt", "CORS"],
+      tags: ["ReactJS", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "Render", "Nodemailer", "Bcrypt"],
       github: "https://github.com/Krishnayadav1908/E-Commerce-Website",
       webapp: "https://e-commerce-website-frontend-kz6e.onrender.com",
     },
@@ -169,7 +169,7 @@ export const SkillsInfo = [
       id: 1,
       title: "Hotel Booking Platform",
       description:
-        "Developed a hotel booking platform with Firebase Authentication and real-time Firestore database. Built admin dashboard to manage hotels, users, and bookings with analytics and export features. Integrated interactive Leaflet maps with geolocation for hotel visualization. Implemented booking workflow including wishlist, booking history, check-in/check-out logic, and protected routes. Designed responsive dark/light mode UI and structured scalable Firestore collections.",
+        "Built and deployed a hotel booking platform on Firebase Hosting using Auth and Firestore. Added an admin dashboard for hotel, user, and booking management with analytics. Integrated Leaflet maps with geolocation, and created booking flows (wishlist, history, check‑in/out) with protected routes. Styled responsive dark/light UI and organized scalable Firestore collections.",
       image: hotelLogo,
       tags: ["React.js", "Firebase Auth", "Firestore", "Leaflet Maps", "Tailwind CSS"],
       github: "https://github.com/Krishnayadav1908/hotel-booking-platform",
